@@ -1,0 +1,2 @@
+/Users/nexle/Desktop/App/alarm_with_speech/android/app/.cxx/Debug/4h53693r/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/nexle/Desktop/App/alarm_with_speech/android/app/.cxx/Debug/4h53693r/armeabi-v7a/CMakeFiles/rebuild_cache.dir
