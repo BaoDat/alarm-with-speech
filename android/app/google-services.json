@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "82133015780",
+    "project_id": "alarm-21872",
+    "storage_bucket": "alarm-21872.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82133015780:android:1ff465f0f4c44f576be0f1",
+        "android_client_info": {
+          "package_name": "com.dev.alarm_with_speech"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVHgbDPauM902Lyra7HcgkKDzG1q0WhXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
