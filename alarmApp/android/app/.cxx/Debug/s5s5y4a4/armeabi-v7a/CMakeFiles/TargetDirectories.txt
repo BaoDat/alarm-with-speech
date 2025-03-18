@@ -1,0 +1,2 @@
+/Users/nexroot/Documents/phanqui21/speech/alarmApp/android/app/.cxx/Debug/s5s5y4a4/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/nexroot/Documents/phanqui21/speech/alarmApp/android/app/.cxx/Debug/s5s5y4a4/armeabi-v7a/CMakeFiles/rebuild_cache.dir

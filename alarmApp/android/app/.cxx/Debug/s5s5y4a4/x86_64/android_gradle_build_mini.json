@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Applications/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/nexroot/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/nexroot/Documents/phanqui21/speech/alarmApp/android/app/.cxx/Debug/s5s5y4a4/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/nexroot/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/nexroot/Documents/phanqui21/speech/alarmApp/android/app/.cxx/Debug/s5s5y4a4/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}

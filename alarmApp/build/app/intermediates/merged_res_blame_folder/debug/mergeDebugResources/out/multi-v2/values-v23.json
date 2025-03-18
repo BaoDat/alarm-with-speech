@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.dev.alarm_with_speech.app-mergeDebugResources-41:/values-v23/values-v23.xml",
+            "outputFile": "com.dev.alarm_with_speech.app-mergeDebugResources-44:/values-v23/values-v23.xml",
             "map": [
                 {
-                    "source": "/Users/nexle/.gradle/caches/transforms-4/e658ef89b2a3772543937d298fbe2826/transformed/appcompat-1.1.0/res/values-v23/values-v23.xml",
+                    "source": "/Users/nexroot/.gradle/caches/transforms-4/0824230fa055ad027c77aea3c0a72900/transformed/appcompat-1.1.0/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,20,34,35,36,37,41,42,43,44",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
